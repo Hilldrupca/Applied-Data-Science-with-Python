@@ -44,8 +44,8 @@ Using data from 'gdplev.xls' and 'City_Zhvi_AllHomes.csv', perform a ttest compa
 
 
 README.md to-do list:
-[x] Introduction to Data Science in Python
-[ ] Applied Plotting, Charting & Data Representation in Python
-[ ] Applied Machine Learning in Python
-[ ] Applied Text Mining in Python
-[ ] Applied Social Network Analysis in Python
+- [x] Introduction to Data Science in Python
+- [ ] Applied Plotting, Charting & Data Representation in Python
+- [ ] Applied Machine Learning in Python
+- [ ] Applied Text Mining in Python
+- [ ] Applied Social Network Analysis in Python
